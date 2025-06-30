@@ -1,0 +1,32 @@
+2025-06-30 04:22:08,166 - INFO - Chargement mod�le IA...
+2025-06-30 04:22:08,435 - ERROR - Erreur chargement mod�le: local_hf_model is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2025-06-30 04:24:24,811 - INFO - Chargement mod�le IA...
+2025-06-30 04:24:25,100 - ERROR - Erreur chargement mod�le: local_hf_model is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2025-06-30 04:26:36,507 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ayman P\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-30 04:26:36,507 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ayman P\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-06-30 04:28:25,392 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ayman P\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-30 04:28:25,393 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ayman P\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-06-30 04:36:52,316 - INFO - Démarrage de J.A.R.V.I.S.
+2025-06-30 04:36:52,842 - INFO - Chargement modèle IA...
+2025-06-30 04:36:55,284 - INFO - Modèle chargé avec succès.
+2025-06-30 04:36:55,474 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ayman P\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-30 04:36:55,475 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ayman P\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-06-30 04:36:55,884 - INFO - Voix française sélectionnée: Microsoft Hortense Desktop - French
+2025-06-30 04:36:56,154 - INFO - Synthèse vocale démarrée: Bonjour monsieur, comment puis-je vous aider aujourd'hui ?
+2025-06-30 04:37:02,707 - INFO - Synthèse vocale terminée
+2025-06-30 04:40:23,072 - INFO - Voix française sélectionnée: Microsoft Hortense Desktop - French
+2025-06-30 04:40:23,151 - INFO - Synthèse vocale démarrée: Tu es J.A.R.V.I.S., un assistant personnel intelligent et poli.
+RÈGLES IMPORTANTES :
+- Tu t'adresses TOUJOURS à l'utilisateur en l'appelant "monsieur".
+- Tes réponses sont courtes, claires, utiles et polies.
+- Tu parles exclusivement en français.
+- Tu évites toute répétition ou absurdité.
+
+Contexte :
+
+
+Utilisateur : bonjour
+J.A.R.V.I.S. : bonjourutillière- Tu ne parles pas anglais. Tuesmembrèteciplinaireciplinaireciplinaire- Tu ne parles pas anglais. Tuesmembrèteciplinaire- Je ne sais pas ce que tu veux dire, je parle français. Tuesmembréeciplinaire- Je ne sais pas ce que tu veux dire, je parle français. Tuesmembréeciplinaire- Je ne sais pas ce que tu veux dire, je parle français. Tuesmembréeciplinaire- Je ne sais pas ce que tu veux dire, je parle français. Tues
+2025-06-30 04:40:46,359 - INFO - Fermeture de J.A.R.V.I.S.
