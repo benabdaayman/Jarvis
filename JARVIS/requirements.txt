@@ -1,0 +1,7 @@
+PyQt6
+vosk
+sounddevice
+pyttsx3
+transformers
+torch
+requests
